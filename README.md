@@ -6,8 +6,8 @@ These tutorials are re-built when I started learning TypeScript fundamentals fro
 References:
 
 TypeScript for Beginners [Video] By : Bharath Thippireddy
- 
-https://subscription.packtpub.com/video/web-development/9781801074476/p16/video16_8/date
+
+https://github.com/PacktPublishing/TypeScript-For-Beginners.
 
 https://github.com/PacktPublishing/TypeScript-For-Beginners
 
