@@ -2,6 +2,7 @@
 **
 
 I have re-built these tutorials here when I started learning TypeScript fundamentals from my packet subscription during March 23 to 31, 2024.
+I have used my packt subscription.
 
 References:
 
